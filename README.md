@@ -12,7 +12,7 @@ Currently learning and building projects using Node.js, Express & MongoDB
 ### 📌 About me
 - 🎓 BSc.CSIT undergraduate at **Madan Bhandari Memorial College**, affiliated to Tribhuvan University
 - 💼 Open to **Backend Developer / Node.js Developer / Full-Stack Intern** roles — available remotely or in Kathmandu, Nepal
-- 🏠 Building **Ghar Khoj**, a smart rental recommendation system, as my final-year project
+- 🏠 Building **Cargo Tracking System**, a smart rental recommendation system, as my final-year project
 - 🍔 Also built a Node.js backend for a restaurant/food ordering app
 - 🌱 Currently deepening my knowledge of REST API design, MySQL, and Java
 - 🤝 Open to collaborating on backend-heavy or open-source projects
