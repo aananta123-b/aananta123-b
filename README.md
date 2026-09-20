@@ -16,7 +16,7 @@
 
 - 🎓 BSc.CSIT undergraduate at **Madan Bhandari Memorial College**, affiliated to Tribhuvan University
 - 💼 Open to **Backend Developer / Node.js Developer / Full-Stack Intern** roles — available remotely or in Kathmandu, Nepal
-- 🏠 Building **Ghar Khoj**, a smart rental recommendation system, as my final-year project
+- 🏠 Building **Cargo Tracking System**, a real-time tracing system, as my internship project
 - 🍔 Also built a Node.js backend for a restaurant/food ordering app
 - 🌱 Currently deepening my knowledge of REST API design and MySQL
 - 🤝 Looking to collaborate on interesting backend or open-source projects
@@ -58,17 +58,24 @@
 
 ---
 
-<div align="center">
-
 ### 📊 GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aananta123-b&show_icons=true&theme=default&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aananta123-b&layout=compact&hide_border=true" height="165" />
+![Followers](https://img.shields.io/github/followers/aananta123-b?label=FOLLOWERS&style=for-the-badge&color=2EA44F)
 
-<img src="https://streak-stats.demolab.com?user=aananta123-b&hide_border=true" />
+**Repo activity** *(live — pulled directly from the GitHub API)*
 
-📫 Reach me at **basnetmichael22@gmail.com** · Portfolio: **[rohanbasnet7.netlify.app](https://rohanbasnet7.netlify.app)**
+![ghar-khoj-backend last commit](https://img.shields.io/github/last-commit/aananta123-b/ghar-khoj-backend?label=ghar-khoj-backend%20last%20commit&style=for-the-badge&color=333333)
+![ghar-khoj-frontend last commit](https://img.shields.io/github/last-commit/aananta123-b/ghar-khoj-frontend?label=ghar-khoj-frontend%20last%20commit&style=for-the-badge&color=333333)
+![Food_App last commit](https://img.shields.io/github/last-commit/aananta123-b/Food_App-BckendNode-?label=Food_App%20last%20commit&style=for-the-badge&color=333333)
 
-![Profile views](https://komarev.com/ghpvc/?username=aananta123-b&color=blueviolet&style=flat-square)
+> Using shields.io badges pulled directly from GitHub's API instead of a third-party stats-card renderer — lightweight, and they won't go down.
+
+---
+
+<div align="center">
+
+📫 Reach me at **[basnetmichael22@gmail.com](mailto:basnetmichael22@gmail.com)** · Portfolio: **[rohanbasnet7.netlify.app](https://rohanbasnet7.netlify.app)**
+
+![Profile views](https://komarev.com/ghpvc/?username=aananta123-b&label=PROFILE+VIEWS&color=2EA44F&style=flat-square)
 
 </div>
