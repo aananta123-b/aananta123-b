@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rohan 👋
-
-### Backend Developer building with Node.js, Express & MongoDB
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohan+%F0%9F%91%8B;Backend+Developer;Node.js+%2B+Express+%2B+MongoDB+Enthusiast;CSIT+Undergraduate+%40+MBMC;Open+to+Internships+%26+Junior+Roles" alt="Typing SVG" />
 
 <a href="https://rohanbasnet7.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-rohanbasnet7.netlify.app-2EA44F?style=for-the-badge" /></a>
 <a href="mailto:basnetmichael22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-basnetmichael22@gmail.com-E34234?style=for-the-badge" /></a>
@@ -16,7 +14,7 @@
 
 - 🎓 BSc.CSIT undergraduate at **Madan Bhandari Memorial College**, affiliated to Tribhuvan University
 - 💼 Open to **Backend Developer / Node.js Developer / Full-Stack Intern** roles — available remotely or in Kathmandu, Nepal
-- 🏠 Building **Cargo Tracking System**, a real-time tracking system, as my internship project
+- 🏠 Building **Ghar Khoj**, a smart rental recommendation system, as my final-year project
 - 🍔 Also built a Node.js backend for a restaurant/food ordering app
 - 🌱 Currently deepening my knowledge of REST API design and MySQL
 - 🤝 Looking to collaborate on interesting backend or open-source projects
@@ -28,21 +26,7 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,java,php,html,css,nodejs,express,react,mongodb,mysql,postgresql,git,github,postman" />
 
 </div>
 
@@ -61,7 +45,12 @@
 
 ### 📊 GitHub stats
 
-![Followers](https://img.shields.io/github/followers/aananta123-b?label=FOLLOWERS&style=for-the-badge&color=2EA44F)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aananta123-b&show_icons=true&theme=default&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com?user=aananta123-b&hide_border=true" height="165" />
+
+</div>
 
 **Repo activity** *(live — pulled directly from the GitHub API)*
 
@@ -69,7 +58,19 @@
 ![ghar-khoj-frontend last commit](https://img.shields.io/github/last-commit/aananta123-b/ghar-khoj-frontend?label=ghar-khoj-frontend%20last%20commit&style=for-the-badge&color=333333)
 ![Food_App last commit](https://img.shields.io/github/last-commit/aananta123-b/Food_App-BckendNode-?label=Food_App%20last%20commit&style=for-the-badge&color=333333)
 
-> Using shields.io badges pulled directly from GitHub's API instead of a third-party stats-card renderer — lightweight, and they won't go down.
+---
+
+### 🐍 Contribution graph
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/aananta123-b/aananta123-b/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!--END_SECTION:snake-->
+
+</div>
+
+> ⚠️ This animated graph won't render until you add the snake-generator GitHub Action below (one-time setup, 2 minutes).
 
 ---
 
