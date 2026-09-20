@@ -16,7 +16,7 @@
 
 - 🎓 BSc.CSIT undergraduate at **Madan Bhandari Memorial College**, affiliated to Tribhuvan University
 - 💼 Open to **Backend Developer / Node.js Developer / Full-Stack Intern** roles — available remotely or in Kathmandu, Nepal
-- 🏠 Building **Cargo Tracking System**, a real-time tracing system, as my internship project
+- 🏠 Building **Cargo Tracking System**, a real-time tracking system, as my internship project
 - 🍔 Also built a Node.js backend for a restaurant/food ordering app
 - 🌱 Currently deepening my knowledge of REST API design and MySQL
 - 🤝 Looking to collaborate on interesting backend or open-source projects
@@ -38,6 +38,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
