@@ -14,7 +14,7 @@
 
 - 🎓 BSc.CSIT undergraduate at **Madan Bhandari Memorial College**, affiliated to Tribhuvan University
 - 💼 Open to **Backend Developer / Node.js Developer / Full-Stack Intern** roles — available remotely or in Kathmandu, Nepal
-- 🏠 Building **Ghar Khoj**, a smart rental recommendation system, as my final-year project
+- 🏠 Building **Cargo Tracking System**, a real-time package tracking system, as my internship project
 - 🍔 Also built a Node.js backend for a restaurant/food ordering app
 - 🌱 Currently deepening my knowledge of REST API design and MySQL
 - 🤝 Looking to collaborate on interesting backend or open-source projects
