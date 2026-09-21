@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohan+%F0%9F%91%8B;Backend+Developer;Node.js+%2B+Express+%2B+MongoDB+Enthusiast;CSIT+Undergraduate+%40+MBMC;Open+to+Internships+%26+Junior+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rohan+%F0%9F%91%8B;Backend+Developer;Node.js+%2B+Express+%2B+MongoDB+Enthusiast;CSIT+Undergraduate+%40+MBMC;Open+to+Internships+%26+Junior+Roles" alt="Typing SVG" />
 
 <a href="https://rohanbasnet7.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-rohanbasnet7.netlify.app-2EA44F?style=for-the-badge" /></a>
 <a href="mailto:basnetmichael22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-basnetmichael22@gmail.com-E34234?style=for-the-badge" /></a>
@@ -14,7 +14,7 @@
 
 - 🎓 BSc.CSIT undergraduate at **Madan Bhandari Memorial College**, affiliated to Tribhuvan University
 - 💼 Open to **Backend Developer / Node.js Developer / Full-Stack Intern** roles — available remotely or in Kathmandu, Nepal
-- 🏠 Building **Cargo Tracking System**, a real time tracking system, as my internship project
+- 🏠 Building **Ghar Khoj**, a smart rental recommendation system, as my final-year project
 - 🍔 Also built a Node.js backend for a restaurant/food ordering app
 - 🌱 Currently deepening my knowledge of REST API design and MySQL
 - 🤝 Looking to collaborate on interesting backend or open-source projects
